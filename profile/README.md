@@ -1,5 +1,4 @@
 # Manusignal
 
-Manusignal is an AI-first company focused on building an AI workforce and multi-agent systems.
+manusignal is an AI first company, focusing on building an AI workforce, and multi-agent system.
 
-We host our open-source projects here on GitHub and every contribution is welcome!
